@@ -1,0 +1,8 @@
+*.o
+*.exe
+*.user.*
+*.Debug
+*.Release
+*.stash
+moc*.*
+*.user

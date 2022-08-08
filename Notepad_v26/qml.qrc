@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/cut.svg</file>
+        <file>images/font.svg</file>
+        <file>images/format-text-underline.svg</file>
+        <file>images/fttext-bold.svg</file>
+        <file>images/Newfile.svg</file>
+        <file>images/Paste.svg</file>
+        <file>images/primary-copy.svg</file>
+        <file>images/primary-text-italic.svg</file>
+        <file>images/print.svg</file>
+        <file>images/save.svg</file>
+        <file>images/saveas.svg</file>
+        <file>images/undo.svg</file>
+        <file>images/dustin-w-Redo-icon.svg</file>
+        <file>images/mono-text-under.svg</file>
+        <file>images/folder-open.svg</file>
+        <file>images/mono-align-left.svg</file>
+        <file>images/mono-text-center.svg</file>
+        <file>images/mono-text-right.svg</file>
+    </qresource>
+</RCC>
